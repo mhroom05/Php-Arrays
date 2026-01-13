@@ -43,7 +43,9 @@
         $dato--;
         echo "letter $dato"."º: $x <br>"; }
     //EJERCICIO 6 ------------------------------------------------------------------------------------------------
-
+    // Un profesor quiere registrar las notas de su clase en un array asocia􀆟vo. Las notas son las siguientes:
+    // Miguel: 5, Luís: 7, Marta: 10, Isabel: 8, Aitor: 4, Pepe: 1
+    // Guarda los datos en un array asocia􀆟vo en el orden previo y muéstralos ordenados de mayor a menor.
 
 
     //EJERCICIO 7 ------------------------------------------------------------------------------------------------
@@ -57,7 +59,7 @@
     //EJERCICIO 8: COMIC SHOP ------------------------------------------------------------------------------------
 
 
-    
+
     ?>
 </body>
 </html>
