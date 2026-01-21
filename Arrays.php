@@ -15,7 +15,7 @@
     foreach ($array as $y) {
         $dato++;
         echo "Dato $dato"."º: $y <br>"; }
-        //EJERCICIO 2 ------------------------------------------------------------------------------------------------
+    //EJERCICIO 2 ------------------------------------------------------------------------------------------------
     // Muestra los valores del array del ejercicio 1 mostrando la clave y el valor u􀆟lizando foreach.
     echo "<h1> Ejercicio 2 </h1>";
     foreach ($array as $x => $y) {
